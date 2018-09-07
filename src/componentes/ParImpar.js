@@ -1,5 +1,5 @@
 import React from 'react'
-import { View, Text } from 'react-natvie'
+import { View, Text } from 'react-native'
 import Padrao from '../estilo/Padrao'
 import If from './If'
 
